@@ -23,10 +23,9 @@ It reviews your prompt; it never runs it.
 ## Install
 
 **Claude (claude.ai or the desktop app):**
-1. Download this repository as a ZIP (green **Code** button → **Download ZIP**), then unzip it.
-2. Zip just the `skills/prompt-coach` folder.
-3. In Claude: **Settings → Capabilities → Skills → Upload skill**, and choose that ZIP.
-4. In any chat, paste a prompt and say "grade this prompt".
+1. Download `prompt-coach-claude-skill.zip` from the [latest release](https://github.com/aiexercises/prompt-coach/releases/latest).
+2. In Claude: **Settings → Capabilities → Skills → Upload skill**, and choose that ZIP.
+3. In any chat, paste a prompt and say "grade this prompt".
 
 **Claude Code:**
 ```
