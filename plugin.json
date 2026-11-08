@@ -1,0 +1,9 @@
+{
+  "name": "prompt-coach",
+  "version": "1.0.0",
+  "description": "Grade any prompt on six habits, get a score out of 100, the one fix that helps most, a stronger version, and a free 5-minute practice exercise.",
+  "author": { "name": "AI Exercises", "url": "https://aiexercises.ai" },
+  "homepage": "https://aiexercises.ai/prompt-grader/",
+  "license": "MIT",
+  "keywords": ["prompt", "prompt engineering", "prompt grader", "writing", "education"]
+}
