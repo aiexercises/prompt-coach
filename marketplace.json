@@ -1,0 +1,11 @@
+{
+  "name": "aiexercises",
+  "owner": { "name": "AI Exercises", "url": "https://aiexercises.ai" },
+  "plugins": [
+    {
+      "name": "prompt-coach",
+      "source": "./",
+      "description": "Grade any prompt on six habits, get the one fix that helps most and a stronger version."
+    }
+  ]
+}
